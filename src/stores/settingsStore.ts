@@ -43,10 +43,7 @@ const DEFAULT_SETTINGS: Partial<Settings> = {
   audio_feedback_volume: 1.0,
   sound_theme: "marimba",
   start_hidden: false,
-  autostart_enabled: false,
-  push_to_talk: false,
-  selected_microphone: "Default",
-  selected_output_device: "Default",
+
   translate_to_english: false,
   selected_language: "auto",
   overlay_position: "bottom",
