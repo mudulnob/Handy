@@ -5,8 +5,7 @@
     <key>NSPrivacyAccessedAPITypes</key>
     <array>
       <dict>
-        <key>NSPrivacyAccessedAPIType</key>
-        <string>NSPrivacyAccessedAPICategoryFileTimestamp</string>
+        APICategoryFileTimestamp</string>
         <key>NSPrivacyAccessedAPITypeReasons</key>
         <array>
           <string>C617.1</string>
